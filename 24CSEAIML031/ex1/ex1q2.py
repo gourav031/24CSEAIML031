@@ -1,0 +1,6 @@
+name=str(input("enter the name-:"))
+age=int(input("enter the age -:"))
+address=str(input("enter the address-L:"))
+print(name)
+print(age)
+print(address)

@@ -1,0 +1,6 @@
+s1=str(input("enter a string-:"))
+print(s1)
+print("string in the upper case-:",s1.upper())
+print("String in the lowercase-:",s1.lower())
+print("1st letter is capitalize-:",s1.capitalize())
+print("length of the string-:",len(s1))
